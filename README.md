@@ -37,3 +37,19 @@
     - Para cada tipo de arquivo(.js, .css, .png) eu preciso converter o código de uma maneira diferente 
     - Loaders: babel-loader, css-loader, image-loader .....
     - Automatiza o arquivo    
+
+# Fragment
+    Criar um elemento sem nada dentro
+    Ex: <code>
+            function App (){
+                return (
+                <>
+                    <Header/><Header/>
+                </>
+                
+                
+                )
+            }
+
+            export default App
+        </code>
