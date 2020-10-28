@@ -15,9 +15,10 @@
         . Uma Api, múltiplos clientes -> Vários front-end consumem a  mesma API.
         . Programação declarativa -> fala qual resultado agente espera para a  aplicação
 
-    - JSX 
+    - JSX (Javascript XML)
         . Permite escrever Html dentro do JavaScript
         . Com React podemos criar nossos próprios elementos
+
 
     - Imperativo x Declarativa
 
