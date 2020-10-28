@@ -55,3 +55,9 @@
         </code>
 
 # Propriedade        
+
+
+#   Estado (State)
+    - Atualizar estado do componente
+
+    - UseEfect -> disparar funções sempre que uma informação for alterada

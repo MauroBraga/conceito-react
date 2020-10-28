@@ -5,7 +5,6 @@ export default function Header({title}){
        <header>
            <h1>
                {title}
-               {props.children}
            </h1>
        </header> 
     );
